@@ -13,7 +13,7 @@ const me = {
   lastName: "Cannon", // string value
   hasSiblings: true, // boolean value
   shoeCount: 4, // int value
-  favThreeFoods: ["Ramen", "Cheesecake", "Chicken Wings" ]
+  favThreeFoods: ["Ramen", "Cheesecake", "Chicken Wings"]
   // TODO - add properties here
 };
 console.log('A little about me:', me);
@@ -57,3 +57,4 @@ console.log(me.shoeCount);
 */
 me.favoriteColor = "Black"; //adds a new property to the object/ 
 console.log(me);
+
